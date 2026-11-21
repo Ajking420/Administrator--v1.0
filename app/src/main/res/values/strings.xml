@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Administrator</string>
+    <string name="device_badge_default">SM-E156B · mt6835</string>
+    <string name="sim_badge_label">SIM</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_superuser">Superuser</string>
+    <string name="tab_modules">Modules</string>
+    <string name="tab_toolkit">Toolkit</string>
+    <string name="tab_tweaks">Tweaks</string>
+    <string name="action_request_root">Request Root</string>
+    <string name="action_install_patch">Install / Patch Root</string>
+    <string name="action_grant_storage">Grant All Files Access</string>
+    <string name="cd_reboot_menu">Open reboot actions menu</string>
+    <string name="cd_antibootloop_shield">Anti-bootloop guardian status</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_app_emblem">Administrator root manager emblem</string>
+</resources>
